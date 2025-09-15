@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MallAdminApplication",
+            "request": "launch",
+            "mainClass": "com.macro.mall.MallAdminApplication",
+            "projectName": "mall-admin"
+        },
+        {
+            "type": "java",
+            "name": "MallDemoApplication",
+            "request": "launch",
+            "mainClass": "com.macro.mall.demo.MallDemoApplication",
+            "projectName": "mall-demo"
+        },
+        {
+            "type": "java",
+            "name": "Generator",
+            "request": "launch",
+            "mainClass": "com.macro.mall.Generator",
+            "projectName": "mall-mbg"
+        },
+        {
+            "type": "java",
+            "name": "MallPortalApplication",
+            "request": "launch",
+            "mainClass": "com.macro.mall.portal.MallPortalApplication",
+            "projectName": "mall-portal"
+        },
+        {
+            "type": "java",
+            "name": "MallSearchApplication",
+            "request": "launch",
+            "mainClass": "com.macro.mall.search.MallSearchApplication",
+            "projectName": "mall-search"
+        }
+    ]
+}
