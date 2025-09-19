@@ -11,9 +11,13 @@ target/
 .project
 
 # Database data directories #
+<<<<<<< HEAD
 confdata/
  
 # Large binaries / external tools
 1panel-v1.10.32-lts-linux-amd64/
 1panel-v1.10.32-lts-linux-amd64.tar.gz
 
+=======
+confdata/
+>>>>>>> parent of 335a26c (add .gitgnore)
